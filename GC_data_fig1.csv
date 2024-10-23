@@ -1,0 +1,121 @@
+"Preparation_Date","Sample","Label","Light_Conditions","Temp_Conditions","Light_Intensity","Surface_Area_cm2","Std_Conc_mg_ml","Std_Added_ul","Peak_Area_Std","Compound","Peak_Area","Treatment","ug_cm2"
+"8/1/2022","ML_22","Control_7","Greenhouse","Greenhouse","Greenhouse",1.5213,0.46,25,7341077,"C28_Alcohol",676420,"Control",0.696529694130656
+"8/1/2022","ML_22","Control_7","Greenhouse","Greenhouse","Greenhouse",1.5213,0.46,25,7341077,"C28_FA",1.2e+07,"Control",12.3567551662693
+"8/1/2022","ML_22","Control_7","Greenhouse","Greenhouse","Greenhouse",1.5213,0.46,25,7341077,"C30_Alcohol",1284451,"Control",1.32263721083915
+"8/1/2022","ML_22","Control_7","Greenhouse","Greenhouse","Greenhouse",1.5213,0.46,25,7341077,"C30_FA",2.1e+07,"Control",21.6243215409712
+"8/1/2022","ML_23","Control_7","Greenhouse","Greenhouse","Greenhouse",1.5671,0.46,25,5015346,"C28_Alcohol",244001,"Control",0.357019416913019
+"8/1/2022","ML_23","Control_7","Greenhouse","Greenhouse","Greenhouse",1.5671,0.46,25,5015346,"C28_FA",6850840,"Control",10.0240691725214
+"8/1/2022","ML_23","Control_7","Greenhouse","Greenhouse","Greenhouse",1.5671,0.46,25,5015346,"C30_Alcohol",731960,"Control",1.07099533364066
+"8/1/2022","ML_23","Control_7","Greenhouse","Greenhouse","Greenhouse",1.5671,0.46,25,5015346,"C30_FA",1.5e+07,"Control",21.9478250240585
+"8/1/2022","ML_24","Half_Water_1","Greenhouse","Greenhouse","Greenhouse",1.0624,0.46,25,1.1e+07,"C28_Alcohol",209372,"Half_water",0.206032482201533
+"8/1/2022","ML_24","Half_Water_1","Greenhouse","Greenhouse","Greenhouse",1.0624,0.46,25,1.1e+07,"C28_FA",1.2e+07,"Half_water",11.8085980284775
+"8/1/2022","ML_24","Half_Water_1","Greenhouse","Greenhouse","Greenhouse",1.0624,0.46,25,1.1e+07,"C30_Alcohol",675103,"Half_water",0.66433499623494
+"8/1/2022","ML_24","Half_Water_1","Greenhouse","Greenhouse","Greenhouse",1.0624,0.46,25,1.1e+07,"C30_FA",1.7e+07,"Half_water",16.7288472070099
+"8/1/2022","ML_25","Half_Water_1","Greenhouse","Greenhouse","Greenhouse",1.1935,0.46,25,3676729,"C28_Alcohol",131457,"Half_water",0.344506573759313
+"8/1/2022","ML_25","Half_Water_1","Greenhouse","Greenhouse","Greenhouse",1.1935,0.46,25,3676729,"C28_FA",7821279,"Half_water",20.4970601086718
+"8/1/2022","ML_25","Half_Water_1","Greenhouse","Greenhouse","Greenhouse",1.1935,0.46,25,3676729,"C30_Alcohol",410564,"Half_water",1.07595637317844
+"8/1/2022","ML_25","Half_Water_1","Greenhouse","Greenhouse","Greenhouse",1.1935,0.46,25,3676729,"C30_FA",9062561,"Half_water",23.7500615379536
+"8/1/2022","ML_26","Third_Water_1","Greenhouse","Greenhouse","Greenhouse",1.2893,0.46,25,5808870,"C28_Alcohol",99493,"Third_water",0.152772338589719
+"8/1/2022","ML_26","Third_Water_1","Greenhouse","Greenhouse","Greenhouse",1.2893,0.46,25,5808870,"C28_FA",1.6e+07,"Third_water",24.5681346168626
+"8/1/2022","ML_26","Third_Water_1","Greenhouse","Greenhouse","Greenhouse",1.2893,0.46,25,5808870,"C30_Alcohol",577942,"Third_water",0.887434803546174
+"8/1/2022","ML_26","Third_Water_1","Greenhouse","Greenhouse","Greenhouse",1.2893,0.46,25,5808870,"C30_FA",1.8e+07,"Third_water",27.6391514439704
+"8/1/2022","ML_27","Third_Water_1","Greenhouse","Greenhouse","Greenhouse",0.8522,0.46,25,4949485,"C28_Alcohol",160099,"Third_water",0.436500672703268
+"8/1/2022","ML_27","Third_Water_1","Greenhouse","Greenhouse","Greenhouse",0.8522,0.46,25,4949485,"C28_FA",2e+07,"Third_water",54.5288443654574
+"8/1/2022","ML_27","Third_Water_1","Greenhouse","Greenhouse","Greenhouse",0.8522,0.46,25,4949485,"C30_Alcohol",690742,"Third_water",1.88326815073424
+"8/1/2022","ML_27","Third_Water_1","Greenhouse","Greenhouse","Greenhouse",0.8522,0.46,25,4949485,"C30_FA",1.5e+07,"Third_water",40.896633274093
+"8/1/2022","ML_28","Shade_1_1","1 layer shade cloth","Greenhouse","1 layer shade cloth",1.4329,0.46,25,5627750,"C28_Alcohol",290398,"Single_shade",0.414133899795591
+"8/1/2022","ML_28","Shade_1_1","1 layer shade cloth","Greenhouse","1 layer shade cloth",1.4329,0.46,25,5627750,"C28_FA",1.1e+07,"Single_shade",15.6869981809499
+"8/1/2022","ML_28","Shade_1_1","1 layer shade cloth","Greenhouse","1 layer shade cloth",1.4329,0.46,25,5627750,"C30_Alcohol",661193,"Single_shade",0.942921217114258
+"8/1/2022","ML_28","Shade_1_1","1 layer shade cloth","Greenhouse","1 layer shade cloth",1.4329,0.46,25,5627750,"C30_FA",1.8e+07,"Single_shade",25.669633387009
+"8/1/2022","ML_29","Shade_1_1","1 layer shade cloth","Greenhouse","1 layer shade cloth",1.0864,0.46,25,5603965,"C28_Alcohol",509414,"Single_shade",0.962240308216865
+"8/1/2022","ML_29","Shade_1_1","1 layer shade cloth","Greenhouse","1 layer shade cloth",1.0864,0.46,25,5603965,"C28_FA",7105867,"Single_shade",13.4223866093748
+"8/1/2022","ML_29","Shade_1_1","1 layer shade cloth","Greenhouse","1 layer shade cloth",1.0864,0.46,25,5603965,"C30_Alcohol",1133347,"Single_shade",2.14079739975081
+"8/1/2022","ML_29","Shade_1_1","1 layer shade cloth","Greenhouse","1 layer shade cloth",1.0864,0.46,25,5603965,"C30_FA",1.4e+07,"Single_shade",26.4448254563795
+"8/1/2022","ML_30","Shade_2_1","2 layer shade cloth","Greenhouse","2 layer shade cloth",1.1093,0.46,25,5767691,"C28_Alcohol",255812,"Double_shade",0.459798717092071
+"8/1/2022","ML_30","Shade_2_1","2 layer shade cloth","Greenhouse","2 layer shade cloth",1.1093,0.46,25,5767691,"C28_FA",3799719,"Double_shade",6.82964802867093
+"8/1/2022","ML_30","Shade_2_1","2 layer shade cloth","Greenhouse","2 layer shade cloth",1.1093,0.46,25,5767691,"C30_Alcohol",377538,"Double_shade",0.678590089806211
+"8/1/2022","ML_30","Shade_2_1","2 layer shade cloth","Greenhouse","2 layer shade cloth",1.1093,0.46,25,5767691,"C30_FA",8423115,"Double_shade",15.1397802719145
+"8/1/2022","ML_31","Shade_2_1","2 layer shade cloth","Greenhouse","2 layer shade cloth",1.078,0.46,25,6155986,"C28_Alcohol",398667,"Double_shade",0.690862697644157
+"8/1/2022","ML_31","Shade_2_1","2 layer shade cloth","Greenhouse","2 layer shade cloth",1.078,0.46,25,6155986,"C28_FA",3846491,"Double_shade",6.66570633818192
+"8/1/2022","ML_31","Shade_2_1","2 layer shade cloth","Greenhouse","2 layer shade cloth",1.078,0.46,25,6155986,"C30_Alcohol",536696,"Double_shade",0.930057532664677
+"8/1/2022","ML_31","Shade_2_1","2 layer shade cloth","Greenhouse","2 layer shade cloth",1.078,0.46,25,6155986,"C30_FA",7109428,"Double_shade",12.320153428267
+"8/2/2022","ML_32","Control_8","Greenhouse","Greenhouse","Greenhouse",1.3232,0.05,25,953311,"C28_Alcohol",89548,"Control",0.0887372176120998
+"8/2/2022","ML_32","Control_8","Greenhouse","Greenhouse","Greenhouse",1.3232,0.05,25,953311,"C28_FA",14711427,"Control",14.5782273091919
+"8/2/2022","ML_32","Control_8","Greenhouse","Greenhouse","Greenhouse",1.3232,0.05,25,953311,"C30_Alcohol",545859,"Control",0.540916702422424
+"8/2/2022","ML_32","Control_8","Greenhouse","Greenhouse","Greenhouse",1.3232,0.05,25,953311,"C30_FA",27022401,"Control",26.7777357164696
+"8/2/2022","ML_33","Control_8","Greenhouse","Greenhouse","Greenhouse",1.2256,0.05,25,934304,"C28_Alcohol",108974,"Control",0.11895862753501
+"8/2/2022","ML_33","Control_8","Greenhouse","Greenhouse","Greenhouse",1.2256,0.05,25,934304,"C28_FA",14479464,"Control",15.8061295802906
+"8/2/2022","ML_33","Control_8","Greenhouse","Greenhouse","Greenhouse",1.2256,0.05,25,934304,"C30_Alcohol",748825,"Control",0.817435298914455
+"8/2/2022","ML_33","Control_8","Greenhouse","Greenhouse","Greenhouse",1.2256,0.05,25,934304,"C30_FA",26210774,"Control",28.6123084558732
+"8/2/2022","ML_34","Half_Water_2","Greenhouse","Greenhouse","Greenhouse",0.9536,0.05,25,1174765,"C28_Alcohol",154206,"Half_water",0.172065596183638
+"8/2/2022","ML_34","Half_Water_2","Greenhouse","Greenhouse","Greenhouse",0.9536,0.05,25,1174765,"C28_FA",6202255,"Half_water",6.92057834492788
+"8/2/2022","ML_34","Half_Water_2","Greenhouse","Greenhouse","Greenhouse",0.9536,0.05,25,1174765,"C30_Alcohol",544311,"Half_water",0.607351184287979
+"8/2/2022","ML_34","Half_Water_2","Greenhouse","Greenhouse","Greenhouse",0.9536,0.05,25,1174765,"C30_FA",12681227,"Half_water",14.1499220788753
+"8/2/2022","ML_35","Half_Water_2","Greenhouse","Greenhouse","Greenhouse",1.1648,0.05,25,1114958,"C28_Alcohol",212695,"Half_water",0.204718656960104
+"8/2/2022","ML_35","Half_Water_2","Greenhouse","Greenhouse","Greenhouse",1.1648,0.05,25,1114958,"C28_FA",7695070,"Half_water",7.40649472537664
+"8/2/2022","ML_35","Half_Water_2","Greenhouse","Greenhouse","Greenhouse",1.1648,0.05,25,1114958,"C30_Alcohol",737064,"Half_water",0.709423127829247
+"8/2/2022","ML_35","Half_Water_2","Greenhouse","Greenhouse","Greenhouse",1.1648,0.05,25,1114958,"C30_FA",16267210,"Half_water",15.6571681689178
+"8/2/2022","ML_36","Third_Water_2","Greenhouse","Greenhouse","Greenhouse",0.7056,0.05,25,1217563,"C28_Alcohol",752960,"Third_water",1.09554924612309
+"8/2/2022","ML_36","Third_Water_2","Greenhouse","Greenhouse","Greenhouse",0.7056,0.05,25,1217563,"C28_FA",21710210,"Third_water",31.5881377479202
+"8/2/2022","ML_36","Third_Water_2","Greenhouse","Greenhouse","Greenhouse",0.7056,0.05,25,1217563,"C30_Alcohol",1646081,"Third_water",2.39503134111712
+"8/2/2022","ML_36","Third_Water_2","Greenhouse","Greenhouse","Greenhouse",0.7056,0.05,25,1217563,"C30_FA",23574215,"Third_water",34.300246322771
+"8/2/2022","ML_37","Third_Water_2","Greenhouse","Greenhouse","Greenhouse",1.0832,0.05,25,980628,"C28_Alcohol",195312,"Third_water",0.229840204470546
+"8/2/2022","ML_37","Third_Water_2","Greenhouse","Greenhouse","Greenhouse",1.0832,0.05,25,980628,"C28_FA",20474766,"Third_water",24.0943946297543
+"8/2/2022","ML_37","Third_Water_2","Greenhouse","Greenhouse","Greenhouse",1.0832,0.05,25,980628,"C30_Alcohol",952954,"Third_water",1.12142183896035
+"8/2/2022","ML_37","Third_Water_2","Greenhouse","Greenhouse","Greenhouse",1.0832,0.05,25,980628,"C30_FA",24011721,"Third_water",28.2566297223401
+"8/2/2022","ML_38","Shade_1_2","1 layer shade cloth","Greenhouse","1 layer shade cloth",1.3872,0.05,25,1196520,"C28_Alcohol",219822,"Single_shade",0.165547308937557
+"8/2/2022","ML_38","Shade_1_2","1 layer shade cloth","Greenhouse","1 layer shade cloth",1.3872,0.05,25,1196520,"C28_FA",6983322,"Single_shade",5.25911949006213
+"8/2/2022","ML_38","Shade_1_2","1 layer shade cloth","Greenhouse","1 layer shade cloth",1.3872,0.05,25,1196520,"C30_Alcohol",739431,"Single_shade",0.55686333576715
+"8/2/2022","ML_38","Shade_1_2","1 layer shade cloth","Greenhouse","1 layer shade cloth",1.3872,0.05,25,1196520,"C30_FA",18908484,"Single_shade",14.2399243128024
+"8/2/2022","ML_39","Shade_1_2","1 layer shade cloth","Greenhouse","1 layer shade cloth",1.2256,0.05,25,1187953,"C28_Alcohol",282317,"Single_shade",0.242381256494444
+"8/2/2022","ML_39","Shade_1_2","1 layer shade cloth","Greenhouse","1 layer shade cloth",1.2256,0.05,25,1187953,"C28_FA",5476758,"Single_shade",4.7020317074636
+"8/2/2022","ML_39","Shade_1_2","1 layer shade cloth","Greenhouse","1 layer shade cloth",1.2256,0.05,25,1187953,"C30_Alcohol",643238,"Single_shade",0.552247419266191
+"8/2/2022","ML_39","Shade_1_2","1 layer shade cloth","Greenhouse","1 layer shade cloth",1.2256,0.05,25,1187953,"C30_FA",11728826,"Single_shade",10.0697003123606
+"8/2/2022","ML_40","Shade_2_2","2 layer shade cloth","Greenhouse","2 layer shade cloth",1.9008,0.05,25,1155169,"C28_Alcohol",1040224,"Double_shade",0.592181633440532
+"8/2/2022","ML_40","Shade_2_2","2 layer shade cloth","Greenhouse","2 layer shade cloth",1.9008,0.05,25,1155169,"C28_FA",8453146,"Double_shade",4.81223064069979
+"8/2/2022","ML_40","Shade_2_2","2 layer shade cloth","Greenhouse","2 layer shade cloth",1.9008,0.05,25,1155169,"C30_Alcohol",1236331,"Double_shade",0.703821975894774
+"8/2/2022","ML_40","Shade_2_2","2 layer shade cloth","Greenhouse","2 layer shade cloth",1.9008,0.05,25,1155169,"C30_FA",16095886,"Double_shade",9.16311108295193
+"8/2/2022","ML_41","Shade_2_2","2 layer shade cloth","Greenhouse","2 layer shade cloth",3.1472,0.05,25,1121744,"C28_Alcohol",1076258,"Double_shade",0.381073113062605
+"8/2/2022","ML_41","Shade_2_2","2 layer shade cloth","Greenhouse","2 layer shade cloth",3.1472,0.05,25,1121744,"C28_FA",16471106,"Double_shade",5.83196188925346
+"8/2/2022","ML_41","Shade_2_2","2 layer shade cloth","Greenhouse","2 layer shade cloth",3.1472,0.05,25,1121744,"C30_Alcohol",1561202,"Double_shade",0.55277833591905
+"8/2/2022","ML_41","Shade_2_2","2 layer shade cloth","Greenhouse","2 layer shade cloth",3.1472,0.05,25,1121744,"C30_FA",37556319,"Double_shade",13.297651117578
+"8/3/2022","ML_42","Control_9","Greenhouse","Greenhouse","Greenhouse",1.5955,0.05,25,990120,"C28_Alcohol",209285,"Control",0.165601197809918
+"8/3/2022","ML_42","Control_9","Greenhouse","Greenhouse","Greenhouse",1.5955,0.05,25,990120,"C28_FA",8906814,"Control",7.04770560274338
+"8/3/2022","ML_42","Control_9","Greenhouse","Greenhouse","Greenhouse",1.5955,0.05,25,990120,"C30_Alcohol",625395,"Control",0.494857066222299
+"8/3/2022","ML_42","Control_9","Greenhouse","Greenhouse","Greenhouse",1.5955,0.05,25,990120,"C30_FA",20861094,"Control",16.5067833529651
+"8/3/2022","ML_43","Control_9","Greenhouse","Greenhouse","Greenhouse",1.184,0.05,25,757709,"C28_Alcohol",410367,"Control",0.571779122987849
+"8/3/2022","ML_43","Control_9","Greenhouse","Greenhouse","Greenhouse",1.184,0.05,25,757709,"C28_FA",11262729,"Control",15.692766012057
+"8/3/2022","ML_43","Control_9","Greenhouse","Greenhouse","Greenhouse",1.184,0.05,25,757709,"C30_Alcohol",1047290,"Control",1.45922688158147
+"8/3/2022","ML_43","Control_9","Greenhouse","Greenhouse","Greenhouse",1.184,0.05,25,757709,"C30_FA",22393612,"Control",31.2018262430706
+"8/3/2022","ML_44","Half_Water_3","Greenhouse","Greenhouse","Greenhouse",1.1163,0.05,25,862928,"C28_Alcohol",353827,"Half_water",0.459140388533104
+"8/3/2022","ML_44","Half_Water_3","Greenhouse","Greenhouse","Greenhouse",1.1163,0.05,25,862928,"C28_FA",13162347,"Half_water",17.0799998744797
+"8/3/2022","ML_44","Half_Water_3","Greenhouse","Greenhouse","Greenhouse",1.1163,0.05,25,862928,"C30_Alcohol",799002,"Half_water",1.03681767846639
+"8/3/2022","ML_44","Half_Water_3","Greenhouse","Greenhouse","Greenhouse",1.1163,0.05,25,862928,"C30_FA",14655447,"Half_water",19.0175075099026
+"8/3/2022","ML_45","Half_Water_3","Greenhouse","Greenhouse","Greenhouse",1.5226,0.05,25,1130515,"C28_Alcohol",403245,"Half_water",0.292830864473068
+"8/3/2022","ML_45","Half_Water_3","Greenhouse","Greenhouse","Greenhouse",1.5226,0.05,25,1130515,"C28_FA",28258055,"Half_water",20.5206032907475
+"8/3/2022","ML_45","Half_Water_3","Greenhouse","Greenhouse","Greenhouse",1.5226,0.05,25,1130515,"C30_Alcohol",1407144,"Half_water",1.02184824103979
+"8/3/2022","ML_45","Half_Water_3","Greenhouse","Greenhouse","Greenhouse",1.5226,0.05,25,1130515,"C30_FA",34376002,"Half_water",24.9633706128728
+"8/3/2022","ML_46","Third_Water_3","Greenhouse","Greenhouse","Greenhouse",1.9462,0.05,25,795372,"C28_Alcohol",316351,"Third_water",0.255459147321814
+"8/3/2022","ML_46","Third_Water_3","Greenhouse","Greenhouse","Greenhouse",1.9462,0.05,25,795372,"C28_FA",30523566,"Third_water",24.648330947527
+"8/3/2022","ML_46","Third_Water_3","Greenhouse","Greenhouse","Greenhouse",1.9462,0.05,25,795372,"C30_Alcohol",1420044,"Third_water",1.14671118283002
+"8/3/2022","ML_46","Third_Water_3","Greenhouse","Greenhouse","Greenhouse",1.9462,0.05,25,795372,"C30_FA",39273417,"Third_water",31.7139936944535
+"8/3/2022","ML_47","Third_Water_3","Greenhouse","Greenhouse","Greenhouse",1.9965,0.05,25,901785,"C28_Alcohol",298981,"Third_water",0.207577980051005
+"8/3/2022","ML_47","Third_Water_3","Greenhouse","Greenhouse","Greenhouse",1.9965,0.05,25,901785,"C28_FA",31144934,"Third_water",21.6234559672416
+"8/3/2022","ML_47","Third_Water_3","Greenhouse","Greenhouse","Greenhouse",1.9965,0.05,25,901785,"C30_Alcohol",1374192,"Third_water",0.954080692626791
+"8/3/2022","ML_47","Third_Water_3","Greenhouse","Greenhouse","Greenhouse",1.9965,0.05,25,901785,"C30_FA",38385608,"Third_water",26.6505462610323
+"8/3/2022","ML_48","Shade_1_3","1 layer shade cloth","Greenhouse","1 layer shade cloth",0.9792,0.05,25,1211034,"C28_Alcohol",605752,"Single_shade",0.638523857552463
+"8/3/2022","ML_48","Shade_1_3","1 layer shade cloth","Greenhouse","1 layer shade cloth",0.9792,0.05,25,1211034,"C28_FA",7387785,"Single_shade",7.78747239294005
+"8/3/2022","ML_48","Shade_1_3","1 layer shade cloth","Greenhouse","1 layer shade cloth",0.9792,0.05,25,1211034,"C30_Alcohol",957026,"Single_shade",1.00880217200769
+"8/3/2022","ML_48","Shade_1_3","1 layer shade cloth","Greenhouse","1 layer shade cloth",0.9792,0.05,25,1211034,"C30_FA",13393003,"Single_shade",14.1175793720396
+"8/3/2022","ML_49","Shade_1_3","1 layer shade cloth","Greenhouse","1 layer shade cloth",0.9288,0.05,25,1354575,"C28_Alcohol",406642,"Single_shade",0.404014528682053
+"8/3/2022","ML_49","Shade_1_3","1 layer shade cloth","Greenhouse","1 layer shade cloth",0.9288,0.05,25,1354575,"C28_FA",6873700,"Single_shade",6.82928636442332
+"8/3/2022","ML_49","Shade_1_3","1 layer shade cloth","Greenhouse","1 layer shade cloth",0.9288,0.05,25,1354575,"C30_Alcohol",781062,"Single_shade",0.77601525617487
+"8/3/2022","ML_49","Shade_1_3","1 layer shade cloth","Greenhouse","1 layer shade cloth",0.9288,0.05,25,1354575,"C30_FA",14944938,"Single_shade",14.8483729724242
+"8/3/2022","ML_50","Shade_2_3","2 layer shade cloth","Greenhouse","2 layer shade cloth",1.158,0.05,25,807779,"C28_Alcohol",587682,"Double_shade",0.785328365379678
+"8/3/2022","ML_50","Shade_2_3","2 layer shade cloth","Greenhouse","2 layer shade cloth",1.158,0.05,25,807779,"C28_FA",3127853,"Double_shade",4.17979737959972
+"8/3/2022","ML_50","Shade_2_3","2 layer shade cloth","Greenhouse","2 layer shade cloth",1.158,0.05,25,807779,"C30_Alcohol",722413,"Double_shade",0.965371443091722
+"8/3/2022","ML_50","Shade_2_3","2 layer shade cloth","Greenhouse","2 layer shade cloth",1.158,0.05,25,807779,"C30_FA",5147382,"Double_shade",6.87852459671179
+"8/3/2022","ML_51","Shade_2_3","2 layer shade cloth","Greenhouse","2 layer shade cloth",0.7934,0.05,25,1244218,"C28_Alcohol",418026,"Double_shade",0.529327712109348
+"8/3/2022","ML_51","Shade_2_3","2 layer shade cloth","Greenhouse","2 layer shade cloth",0.7934,0.05,25,1244218,"C28_FA",2081179,"Double_shade",2.63530430777038
+"8/3/2022","ML_51","Shade_2_3","2 layer shade cloth","Greenhouse","2 layer shade cloth",0.7934,0.05,25,1244218,"C30_Alcohol",542875,"Double_shade",0.687418442181496
+"8/3/2022","ML_51","Shade_2_3","2 layer shade cloth","Greenhouse","2 layer shade cloth",0.7934,0.05,25,1244218,"C30_FA",6265505,"Double_shade",7.93373002363413
