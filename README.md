@@ -22,6 +22,6 @@ This project is licensed under the MIT License - see the `LICENSE.md` file for d
 
 ## Citation
 If you use the data or code from this project in your research, please cite it as follows:
-> Larson, M., Hampton, M., Busta, L., et al. (2024). Wax bloom dynamics on *Sorghum bicolor* under different environmental stresses reveal signaling modules associated with wax production. DOI: URL
+> Larson, M., Hampton, M., Busta, L., et al. (2024). Wax bloom dynamics on *Sorghum bicolor* under different environmental stresses reveal signaling modules associated with wax production. DOI: https://doi.org/10.1101/2024.10.10.617702.
 
 For any further inquiries, please open an issue or contact the repository maintainers directly.
